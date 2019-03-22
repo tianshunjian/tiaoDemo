@@ -1,6 +1,6 @@
 # tiaoDemo
 
-A small game just like the small game "Jump" in WeChat.
+A small game just like the small game "Jump" in WeChat, developed by Cocos Creator.
 
 It is a Cocos Creator project which can be built to WeChat game, web game, and native games.
 
